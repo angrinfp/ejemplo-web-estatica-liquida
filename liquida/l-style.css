@@ -1,0 +1,46 @@
+body {
+  background: #4782e0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  color: #fff;
+}
+
+header {
+  border: 1px solid #fff;
+  padding: 5px;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+  width: 100%;
+}
+
+nav {
+  border: 1px solid #fff;
+  padding: 150px 5px;
+  width: 30%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.section {
+  border: 1px solid #fff;
+  width: 68%;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 150px 5px;
+}
